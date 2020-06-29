@@ -35,7 +35,7 @@ bot.once('ready', () => {
             return msg.reply(`${motivation[random]}`);
         }
       }else if(!command){
-          return msg.reply('Please enter a user');
+          return msg.reply('Please enter a valid argument');
       }
        else {
           return msg.channel.send("Please enter a valid argument");
