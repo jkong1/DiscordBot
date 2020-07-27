@@ -1,3 +1,3 @@
 # The purpose of this bot is to send wholesome commands and motivation quotes
-requirement cofig.json with token and a prefix
+requirement env with token and a prefix
 All the quotes and wholesome commands are stored in the array
